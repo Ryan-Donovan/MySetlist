@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  MySetlist_copy
+//  SetList
 //
-//  Created by Ryan Donovan on 7/9/17.
-//  Copyright © 2017 Ryan Donovan. All rights reserved.
+//  Created by Ryan D on 6/20/17.
+//  Copyright © 2017 Ryan D. All rights reserved.
 //
 
 import UIKit
